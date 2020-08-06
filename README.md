@@ -1,2 +1,12 @@
 # 2_Algorithmization
-## Arrays (Массивы)
+## Arrays (Одномерные массивы)
+![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_2_Arrays.PNG)
+## ArraysOfArrays (Массивы массивов)
+![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_2_ArraysOfArrays_part1.PNG)
+![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_2_ArraysOfArrays_part2.PNG)
+![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_2_ArraysOfArrays_part3.PNG)
+## ArraysSorting (Одномерные массивы. Сортировки)
+![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_2_ArraysSorting_part2.PNG)
+## Methods (Декомпозиция с использованием методов (подпрограммы))
+![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_2_Methods_part1.PNG)
+![Image alt](https://github.com/TemaGarfield/screenshots/blob/master/Module_2_Methods_part2.PNG)
